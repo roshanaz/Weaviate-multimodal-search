@@ -23,9 +23,6 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 ### 2. Initialize the Python Environment
 
 ```bash
-# Initialize uv environment
-uv init
-
 # Install dependencies
 uv sync
 ```
